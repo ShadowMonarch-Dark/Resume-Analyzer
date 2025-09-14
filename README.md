@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank">
       <img src="public/readme/hero.webp" alt="Project Banner">
@@ -132,4 +132,4 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 
 <a href="https://jsm.dev/resumind-courses" target="_blank">
   <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
+</a> -->
